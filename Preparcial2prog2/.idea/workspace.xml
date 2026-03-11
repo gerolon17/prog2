@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cee63cbf-441a-45b5-9859-432908220d29" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter/src/main/java/uniquindio/edu/co/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter/src/main/java/uniquindio/edu/co/model/AdaptadorImpresora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter/src/main/java/uniquindio/edu/co/model/Impresora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter/src/main/java/uniquindio/edu/co/model/ImpresoraVieja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/src/main/java/uniquindio/edu/co/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/src/main/java/uniquindio/edu/co/model/Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/src/main/java/uniquindio/edu/co/model/IMensajeNotificable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/src/main/java/uniquindio/edu/co/model/Notificacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/src/main/java/uniquindio/edu/co/model/NotificacionPago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/src/main/java/uniquindio/edu/co/model/NotificacionPedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge/src/main/java/uniquindio/edu/co/model/SMS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuilderPrototype/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuilderPrototype/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuilderPrototype/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuilderPrototype/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuilderPrototype/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuilderPrototype/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuilderPrototype/src/main/java/uniquindio/edu/co/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuilderPrototype/src/main/java/uniquindio/edu/co/model/Estudiante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuilderPrototype/src/main/java/uniquindio/edu/co/model/EstudianteBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/src/main/java/uniquindio/edu/co/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/src/main/java/uniquindio/edu/co/model/Archivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/src/main/java/uniquindio/edu/co/model/Carpeta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/src/main/java/uniquindio/edu/co/model/IComponenteArchivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/src/main/java/uniquindio/edu/co/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/src/main/java/uniquindio/edu/co/model/CafeBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/src/main/java/uniquindio/edu/co/model/CafeConChocolate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/src/main/java/uniquindio/edu/co/model/CafeConCrema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/src/main/java/uniquindio/edu/co/model/CafeDecorador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/src/main/java/uniquindio/edu/co/model/ICafe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1-eSports/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1-eSports/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1-eSports/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1-eSports/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1-eSports/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1-eSports/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1-eSports/src/main/java/uniquindio/edu/co/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1-eSports/src/main/java/uniquindio/edu/co/model/Avatar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1-eSports/src/main/java/uniquindio/edu/co/model/GameConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/src/main/java/uniquindio/edu/co/singleton/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/src/main/java/uniquindio/edu/co/singleton/model/Evento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/src/main/java/uniquindio/edu/co/singleton/model/Examen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/src/main/java/uniquindio/edu/co/singleton/model/INotificable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/src/main/java/uniquindio/edu/co/singleton/model/Nota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/src/main/java/uniquindio/edu/co/singleton/model/Notificacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/main/java/co/edu/uniquindio/poo/facade/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/main/java/co/edu/uniquindio/poo/facade/controller/CineController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/main/java/co/edu/uniquindio/poo/facade/model/CineCasaFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/main/java/co/edu/uniquindio/poo/facade/model/IGestionable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/main/java/co/edu/uniquindio/poo/facade/model/Luces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/main/java/co/edu/uniquindio/poo/facade/model/Sonido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/main/java/co/edu/uniquindio/poo/facade/model/Televisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/main/java/co/edu/uniquindio/poo/facade/viewController/CineViewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/main/java/co/edu/uniquindio/poo/facade/viewController/PrimaryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/main/resources/co/edu/uniquindio/poo/facade/cineView.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/main/resources/co/edu/uniquindio/poo/facade/primary.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/src/main/java/uniquindio/edu/co/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/src/main/java/uniquindio/edu/co/model/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/src/main/java/uniquindio/edu/co/model/CreadorVehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/src/main/java/uniquindio/edu/co/model/Mota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/src/main/java/uniquindio/edu/co/model/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory/src/main/java/uniquindio/edu/co/model/Vehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="346h6qEBjOt9p1WjnkYSmW4pTWo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gero/Desktop/Preparcial2prog2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cee63cbf-441a-45b5-9859-432908220d29" name="Changes" comment="" />
+      <created>1760539758213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760539758213</updated>
+      <workItem from="1760539777071" duration="471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
