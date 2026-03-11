@@ -1,0 +1,13 @@
+#(IntelliJ, VS Code)
+.idea/
+.vscode/
+*.iml
+
+#Java
+*.class
+/target/
+/bin/
+
+#Python
+__pycache__/
+*.py[cod]
